@@ -1,0 +1,48 @@
+body {
+    background-color: #FBB647;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+#score {
+    color: white;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#question-box {
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 20px;
+    min-height: 150px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#question-text {
+    font-size: 20px;
+    color: #FBB647;
+}
+
+.btn-group button {
+    background: none;
+    border: none;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+.btn-group img {
+    width: 80px;
+}
